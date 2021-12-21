@@ -5,7 +5,7 @@
 :telescope: I'm working on some projects, and willing about to post some stuff where <br />
 
 <!--- Github and mail:to --->
-<a href="https://www.linkedin.com/in/nuno-anjo-31913821a/">
+<a href="https://www.linkedin.com/in/andre-freitas-331006215/a/">
   <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
 </a>
 <a href="mailto:adavidaf2002@gmail.com">
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node%2Ejs&logoColor=white&color=2bbc8a">
   
 </p>
 
@@ -42,6 +41,6 @@
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juskocode&count_private=true&theme=dark&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naapperas&theme=dark&show_icons=true&layout=compact&hide_border=true& exclude_repo=github-readme-stats,anuraghazra.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juskocode&theme=dark&show_icons=true&layout=compact&hide_border=true& exclude_repo=github-readme-stats,anuraghazra.github.io" />
 </div>
 
