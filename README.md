@@ -1,7 +1,7 @@
 ### Hi there, I'm Juskocode! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--- Brief description ---> 
-:computer: MSc in Informatics and Computing Engineering (year 2) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
+:computer: MSc in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
 :telescope: I'm working on some projects, and willing about to post some stuff where <br />
 
 <!--- Github and mail:to --->
