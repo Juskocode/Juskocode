@@ -2,7 +2,7 @@
 
 <!--- Brief description ---> 
 :computer: MSc in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
-:telescope: I'm working on some projects, and willing about to post some stuff where <br />
+:telescope: I'm working on some projects, and willing about to post some stuff here <br />
 
 <!--- Github and mail:to --->
 <a href="https://www.linkedin.com/in/andre-freitas-331006215/a/">
