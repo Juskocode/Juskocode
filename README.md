@@ -40,7 +40,7 @@
 #### 📈 Github Stats
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" />
   <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=Juskocode&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
