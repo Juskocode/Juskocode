@@ -19,21 +19,21 @@
 <p>
   
   <!--- OS ---> 
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=AF8FE9">
+  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=AF8FE9">
     
   <!--- Tools --->   
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=AF8FE9">
   
   <!--- Editors --->
-  <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse%20ide&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AF8FE9">
+  <img src="https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse%20ide&logoColor=white&color=AF8FE9">
   
   <!--- Programming languages ---> 
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=AF8FE9">
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=AF8FE9">
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=AF8FE9">
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=AF8FE9">
   
 </p>
 
