@@ -41,7 +41,6 @@
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juskocode&count_private=true&theme=dark&show_icons=true&hide_border=true" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Juskocode&theme=whatsapp-dark" alt="GitHub Streak" /></a>
- />
+  <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=Juskocode&theme=whatsapp-dark" alt="GitHub Streak" /></a>
 </div>
 
