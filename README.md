@@ -32,5 +32,6 @@
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" />
   <a href="https://git.io/streak-stats"><img align="left = 100" src="https://streak-stats.demolab.com?user=Juskocode&theme=tokyonight" alt="GitHub Streak" /></a>
+  <img align="left = 100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" alt="Top langs" />
 </div>
 
