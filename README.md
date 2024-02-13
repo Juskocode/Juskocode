@@ -42,6 +42,6 @@
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juskocode&count_private=true&theme=dark&show_icons=true&hide_border=true" />
   <img align = "center" src = "https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juskocode&theme=dark&show_icons=true&layout=compact&hide_border=true& exclude_repo=github-readme-stats,anuraghazra.github.io" />
+ />
 </div>
 
