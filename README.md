@@ -32,7 +32,7 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex;">
     <img style="center" src="https://github-readme-stats.vercel.app/api?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" />
-    <img style="margin-top: 300px; width: 300px; height: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" alt="Top langs" />
+    <img style="margin-top: 700px; width: 300px; height: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" alt="Top langs" />
   </div>
   <img style="margin-top: 10px; width: 55%;" src="https://streak-stats.demolab.com?user=Juskocode&theme=tokyonight" alt="GitHub Streak" />
 </div>
