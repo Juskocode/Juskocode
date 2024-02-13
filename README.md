@@ -29,9 +29,12 @@
 
 #### 📈 Github Stats
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" alt="Top langs" />
-  <img align="center" src="https://streak-stats.demolab.com?user=Juskocode&theme=tokyonight" alt="GitHub Streak" />
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex;">
+    <img style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juskocode&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" alt="Top langs" />
+  </div>
+  <img style="margin-top: 10px;" src="https://streak-stats.demolab.com?user=Juskocode&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 
