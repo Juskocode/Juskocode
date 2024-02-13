@@ -27,7 +27,7 @@
   
   <!--- Editors --->
   <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AF8FE9">
-  <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=Emacs%20ide&logoColor=white&color=AF8FE9">
+  <img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=emacs%20ide&logoColor=white&color=AF8FE9">
   
   <!--- Programming languages ---> 
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=AF8FE9">
