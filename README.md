@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=AF8FE9">
   
 </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=purple)
 
 #### 📈 Github Stats
 
