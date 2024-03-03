@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=AF8FE9">
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=AF8FE9">
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=AF8FE9">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=purple">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
   
 </p>
 
