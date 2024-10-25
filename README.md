@@ -2,7 +2,7 @@
 
 <!--- Brief description ---> 
 :computer: MSc in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
-:telescope: I'm working on some projects, and willing about to post some stuff here <br />
+:telescope: I'm working on some projects, about machine learning and optimization <br />
  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
 <h1 align="center">Github Statistics</h1>
 
