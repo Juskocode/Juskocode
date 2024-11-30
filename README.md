@@ -3,7 +3,8 @@
 <!--- Brief description ---> 
 :computer: MSc in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
 :telescope: I'm working on some projects, about machine learning and optimization <br />
-🥇: Top 1 Programmer in my Neighborhood
+🥇: Top 1 Programmer in my Neighborhood <br />
+Just kidding I'm a chill dude <br />
  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
 <h1 align="center">Github Statistics</h1>
 
