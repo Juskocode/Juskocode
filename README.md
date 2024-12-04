@@ -5,7 +5,8 @@
 :telescope: I'm working on some projects, about machine learning and optimization <br />
 🥇: Top 1 Programmer in my Neighborhood <br />
 Just kidding I'm a chill dude <br />
-<img src="https://tryhackme-badges.s3.amazonaws.com/andrefreitas88.png" alt="Your Image Badge" />
+Also recently started doing tryhackme, i found some interst on cybersecurity lol
+<img src="https://tryhackme-badges.s3.amazonaws.com/andrefreitas88.png" alt="Your Image Badge" /> <br />
  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
 <h1 align="center">Github Statistics</h1>
 
