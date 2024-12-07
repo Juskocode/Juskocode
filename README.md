@@ -7,7 +7,7 @@
 	<img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif">
 </a> > I'm just a chill dude <br />
 👽:Also recently started doing tryhackme, i found some interst on cybersecurity lol  <br />
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3586427" style='border:none;'></iframe> <br />
+<img src="https://tryhackme-badges.s3.amazonaws.com/andrefreitas88.png" alt="Your Image Badge" /> <br />
  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
 <h1 align="center">Github Statistics</h1>
 
