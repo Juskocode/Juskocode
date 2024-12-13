@@ -5,7 +5,7 @@
 :telescope: I'm working on some projects, about machine learning and optimization <br />
 <a href="https://r.mtdv.me/blog/posts/jGXWDFBh7Y" target="_blank">
 	<img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif">
-</a> > I'm just a chill dude <br />
+</a> > I'm just a chill dude 😎<br />
 👽:Also recently started doing tryhackme, i found some interst on cybersecurity lol  <br />
 <img src="https://tryhackme-badges.s3.amazonaws.com/andrefreitas88.png" alt="Your Image Badge" /> <br />
  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
