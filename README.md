@@ -9,7 +9,7 @@
 🪗:Also recently started doing tryhackme, i found some interst on cybersecurity :accessibility:  <br />
 <img src="https://tryhackme-badges.s3.amazonaws.com/andrefreitas88.png" alt="Your Image Badge" /> <br />
  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
-<h1 align="center">Github Statistics</h1>
+<h1 align="center">Github Stats</h1>
 
 <p align="center">
   <img height=200 width=493 align="center" src="https://streak-stats.demolab.com?user=Juskocode&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&hide_border=true&border=EBDBB2&card_width=500" alt="GitHub Streak" />
