@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juskocode</h1>
 <!--- Brief description ---> 
 :computer: MSc in Informatics and Computacional Engineering [@FEUP]<br />
-:telescope: I'm working on some projects related to machine learning and optimization <br />
+:telescope: I'm currently working on @dxFeed and some projects related to machine learning and optimization <br />
 <a href="https://r.mtdv.me/blog/posts/jGXWDFBh7Y" target="_blank">
 	<img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif">
 </a> > I'm just a chill dude 😎<br />
