@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juskocode</h1>
 <!--- Brief description ---> 
-:maths: I have a strong foundation on maths <br />
+⚓: I have a strong foundation on maths <br />
 :computer: MSc in Informatics and Computacional Engineering [@FEUP]<br />
 :telescope: I'm currently working on @dxFeed and some projects related to machine learning and optimization <br />
 <a href="https://r.mtdv.me/blog/posts/jGXWDFBh7Y" target="_blank">
