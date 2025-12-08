@@ -3,7 +3,7 @@
 ⚓ I have a strong foundation in maths <br />
 :computer: MSc in Informatics and Computational Engineering [@FEUP]<br />
 :telescope: I'm currently working at @dxFeed and on projects related to machine learning and optimization <br />
-🧰 <b>Main stack:</b> Python/R · PostgreSQL · Docker · Kubernetes · Terraform · Grafana (+ plugins) · Node.js/ts · React · Go · C/C++ <br />
+🧰 <b>Main stack (in order):</b> Python · Java · C/C++ · PostgreSQL · Docker · Kubernetes · Terraform · Grafana · Node.js/ts · React · Go · R <br />
 <a href="https://r.mtdv.me/blog/posts/jGXWDFBh7Y" target="_blank">
 	<img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif">
 </a> > I'm just a chill dude 😎<br />
