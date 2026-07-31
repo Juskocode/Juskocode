@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juskocode</h1>
 <!--- Brief description ---> 
 ⚓ I have a strong foundation in maths <br />
-:computer: MSc in Informatics and Computational Engineering [@FEUP]<br />
+:computer: Wondering were to find more knowledge <br />
 :telescope: I'm currently working at @dxFeed and on projects related to machine learning and optimization <br />
 🧰 <b>Main stack (in order):</b> Python · Java · C/C++ · PostgreSQL · Docker · Kubernetes · Terraform · Grafana · Node.js/ts · React · Go · R <br />
 <a href="https://r.mtdv.me/blog/posts/jGXWDFBh7Y" target="_blank">
